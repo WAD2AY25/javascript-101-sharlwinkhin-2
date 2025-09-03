@@ -10,7 +10,7 @@ function ex1() {
     person.firstName = "Jun";
     cars[0] = "what";
     
-    return "" // e.g., "YournalSaab"
+    return "Junwhat" // e.g., "YournalSaab"
 
 }
 
@@ -33,7 +33,7 @@ function ex2() {
 
     */
 
-    return "" // e.g., the result of the first two expressions is "534NaN"
+    return "534NaN152-1truefalsetruefalse" // e.g., the result of the first two expressions is "534NaN"
 
 }
 
