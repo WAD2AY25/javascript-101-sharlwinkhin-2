@@ -45,6 +45,7 @@ function ex3(firstNumber, secondNumber) {
             - else return the string "NaN"
 
     */
+   return ""
       
 }
 
